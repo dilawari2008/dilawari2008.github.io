@@ -167,6 +167,18 @@ export const DATA = {
       image: "/balancer.png",
       video: "",
     },
+    // {
+    //   title: "Research Publication",
+    //   href: "https://www.researchgate.net/publication/342779148_Chemical_Equilibrium_Analysis_of_Energetic_Materials_Using_Particle_Swarm_Optimization",
+    //   dates: "July 2020",
+    //   active: true,
+    //   description:
+    //     "Chemical Equilibrium Analysis of Energetic Materials Using Particle Swarm Optimization",
+    //   technologies: ["C++", "Particle Swarm Optimization"],
+    //   links: [],
+    //   image: "/balancer.png",
+    //   video: "",
+    // },
   ],
   hackathons: [
     {

@@ -217,6 +217,17 @@ export default function Page() {
                 </Link>
                 {" ."}
               </p>
+
+              <p className="mx-auto max-w-[600px] text-muted-foreground text-sm md:text-base lg:text-sm xl:text-base">
+                <a
+                  href="https://drive.google.com/file/d/1mOGlUFFD7aBxf_6DVKZUtTZM_sO4Sl6t/view"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-blue-500 hover:underline"
+                >
+                  Download Resume
+                </a>
+              </p>
             </div>
           </BlurFade>
         </div>
