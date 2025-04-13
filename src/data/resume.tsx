@@ -8,7 +8,7 @@ export const DATA = {
   location: "Bangalore, India",
   locationLink: "https://www.google.com/maps/place/bangalore",
   summary:
-    "Full Stack Developer and Distributed Systems Engineer with experience in building scalable applications. When not spending two hours hunting down a missing semicolon, I love solving real problems, learning new tech stacks, and helping others—all while maintaining a healthy relationship with the debugger that knows my code better than I do.",
+    "Full Stack Developer with experience in building scalable applications. When not spending two hours hunting down a missing semicolon, I love solving real problems, learning new tech stacks, and helping others—all while maintaining a healthy relationship with the debugger that knows my code better than I do.",
   description:
     "Had the time of my life at IIT Roorkee with a Mechanical Engineering degree, only to realize I prefer debugging code to fixing engines.",
   avatarUrl: "/me.jpg",
