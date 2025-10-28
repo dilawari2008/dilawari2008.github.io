@@ -19,17 +19,24 @@ export const DATA = {
     "Python",
     "React",
     "Next.js",
+    "Flask",
+    "Echo",
     "TailwindCSS",
     "Mongo",
     "Postgres",
+    "MySQL",
     "Docker",
     "Java",
     "C++",
     "AWS",
+    "GCP",
     "Solidity",
     "Ethers.js",
     "gRPC",
     "Redis",
+    "Redshift",
+    "SQS",
+    "Qdrant",
     "Terraform",
   ],
   navbar: [
@@ -72,6 +79,18 @@ export const DATA = {
 
   work: [
     {
+      company: "Alle",
+      href: "https://alle.ai",
+      badges: ["Elevation Capital backed seed stage startup"],
+      location: "Bangalore, India",
+      title: "Backend Engineer",
+      logoUrl: "/alle.jpeg",
+      start: "June 2025",
+      end: "Present",
+      description:
+        "Built marketplace features including warehouse integrations (EasyEcom, Shopify), automated catalogue ingestion, and seller order tracking panels. Developed LLM-based sizing recommendation system and brand website scrapers with vector embeddings in Qdrant for conversational search. Designed data pipeline pushing orders and cart metrics to Redshift enabling ML-powered personalization.",
+    },
+    {
       company: "Fibr.ai",
       href: "https://fibr.ai",
       badges: ["Accel backed early stage startup"],
@@ -79,7 +98,7 @@ export const DATA = {
       title: "Software Engineer",
       logoUrl: "/fibr.jpeg",
       start: "March 2023",
-      end: "Present",
+      end: "June 2025",
       description:
         "Architected robust Analytics Service and Job Scheduler handling millions of events while establishing end-to-end deployment pipelines using AWS services, Terraform, and GitHub Workflows. Integrated comprehensive suite of third-party platforms including OpenAI, Google, Meta, Shopify, Amazon, and Razorpay to enable personalized content generation and seamless payment processing.",
     },
